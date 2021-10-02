@@ -2,6 +2,8 @@
 
 This app shows all the PS1 stations of BPHC along with their projects with a better UI than PSD website, go to **Search Stations** route to view the list 
 
+PS 1(practice school 1) is the core academic requirement of BPHC. It has domains in Research and Development, Finance, Management.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
